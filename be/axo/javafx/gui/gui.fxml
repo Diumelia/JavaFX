@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?scenebuilder-background-color 0xdfdfdfff?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="347.0" prefWidth="366.0" xmlns:fx="http://javafx.com/fxml"
+            fx:controller="be.axo.javafx.gui.GuiController">
+    <children>
+        <Button layoutX="144.0" layoutY="312.0" mnemonicParsing="false" prefWidth="81.0" text="Start" fx:id="btnStart"/>
+    </children>
+</AnchorPane>
